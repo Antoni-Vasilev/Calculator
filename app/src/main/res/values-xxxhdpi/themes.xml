@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">@font/abel_regular</item>
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+
+    <style name="Theme.Button.Default" parent="Theme.Calculator">
+        <item name="android:background">@drawable/btn_default</item>
+        <item name="android:textColor">@color/btn_default_text_color</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Theme.Button.Operation" parent="Theme.Calculator">
+        <item name="android:background">@drawable/btn_default</item>
+        <item name="android:textColor">@color/btn_operation_text_color</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Theme.Button.Special" parent="Theme.Calculator">
+        <item name="android:background">@drawable/btn_default</item>
+        <item name="android:textColor">@color/btn_special_text_color</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Theme.Button.Equal" parent="Theme.Calculator">
+        <item name="colorPrimary">@color/btn_equal_bg_color</item>
+        <item name="android:background">@drawable/btn_equal</item>
+        <item name="android:textColor">@color/btn_equal_text_color</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>

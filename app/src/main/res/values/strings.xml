@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="_00" translatable="false">00</string>
+    <string name="_." translatable="false">.</string>
+    <string name="equal" translatable="false">=</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="multiply" translatable="false">×</string>
+    <string name="left_bracket" translatable="false">(</string>
+    <string name="percent" translatable="false">%</string>
+    <string name="divide" translatable="false">÷</string>
+    <string name="clear" translatable="false">C</string>
+    <string name="clearAll" translatable="false">CA</string>
+    <string name="openMenu" translatable="false">←</string>
+    <string name="sin" translatable="false">sin</string>
+    <string name="cos" translatable="false">cos</string>
+    <string name="tg" translatable="false">tan</string>
+    <string name="cotg" translatable="false">cotg</string>
+    <string name="right_bracket" translatable="false">)</string>
+    <string name="_true">true</string>
+    <string name="_false">false</string>
+</resources>
